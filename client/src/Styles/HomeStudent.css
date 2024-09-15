@@ -1,0 +1,57 @@
+.student-register{
+        width: 100%;
+        color: white;
+        margin-right: auto;
+        margin-left: auto;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        background-color: blue;
+}
+#row2{
+        width: 96%;
+        margin-right: auto;
+        margin-left: auto;
+        background-color: #ffffff;
+        box-shadow: 0px 1px 1px 1px gray;
+        border-bottom-left-radius: 5px;
+        border-bottom-right-radius: 5px;
+        padding: 0 10px 0 10px;
+        text-align: start;
+        margin-bottom: 20px;
+}
+.student-list{
+        width: 100%;
+        color: white;
+        margin-right: auto;
+        margin-left: auto;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        background-color: red;
+}
+.student-admission{
+        width: 100%;
+        color: white;
+        margin-right: auto;
+        margin-left: auto;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        background-color: green;
+}
+.student-fee{
+        width: 100%;
+        color: white;
+        margin-right: auto;
+        margin-left: auto;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        background-color: purple;
+}
+.student-att{
+        width: 100%;
+        color: white;
+        margin-right: auto;
+        margin-left: auto;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        background-color: #7d6608;
+}

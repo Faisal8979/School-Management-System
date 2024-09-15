@@ -1,0 +1,20 @@
+.form-container1{
+    width: 50%;
+    margin-top: 30px;
+    border: 1px solid black;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 5px 5px gray;
+    margin-bottom: 20px;
+}
+.form-container1 Button{
+    margin: 20px;
+}
+@media (max-width:768px){
+    .form-container1{
+        width: 80%;
+        margin-top: 50px;
+    }
+}

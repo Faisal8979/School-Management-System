@@ -1,0 +1,33 @@
+#cards{
+    width: 96%;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+   
+}
+#cards Button{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.student-card{
+    margin: 10px;
+}
+.profile-link{
+    text-decoration: none;
+    background: #ffffff !important;
+    color: black !important;
+}
+.icons{
+    display: flex;
+    justify-content: center;
+    float: right;
+}
+.icons h3{
+    margin: 10px;
+}
+@media (max-width:768px){
+    .student-card{
+        margin: 0;
+    }
+}

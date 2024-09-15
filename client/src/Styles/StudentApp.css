@@ -1,0 +1,160 @@
+.star{
+   float: inline-end;
+   margin-bottom: auto;
+}
+.student-management{
+    width:100%;
+     color:white; 
+     margin-right: auto;
+     margin-left: auto; 
+     margin-top: 20px;   
+     margin-bottom: 20px;  
+     background-color: red; 
+    text-shadow: 1px 1px black;
+    justify-content: flex-start;
+}
+.staff-management {
+    width: 100%;
+    color: white;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: violet;
+    text-shadow: 1px 1px black;
+}
+.fee-management {
+    width: 100%;
+    color: white;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-shadow: 1px 1px black;
+    background-color: rgb(104, 236, 104);
+}
+.text{
+    background-color: rgba(0, 0, 0, 0.171);
+    padding: 10px;
+    margin-bottom: -16px;
+    margin-left:-16px ;
+    margin-right: -16px;
+    margin-top: 30px;
+    cursor: pointer;
+    text-align: center;
+}
+.marquee{
+    font-size: 20px;
+    color: blue;
+    width: 96%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.software-panel{
+    width: 96%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    text-align: start;
+    padding-left: 30px;
+}
+#row1{
+    width: 96%;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #ffffff;
+    box-shadow: 0px 1px 1px 1px gray;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    padding: 0 10px 0 10px;
+    text-align: start;
+    margin-bottom: 20px;
+}
+.account-management{
+    width: 100%;
+        color: white;
+        margin-right: auto;
+        margin-left: auto;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        text-shadow: 1px 1px black;
+        background-color: lawngreen;
+}
+.enquiry {
+    width: 100%;
+    color: white;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-shadow: 1px 1px black;
+    background-color: #1b4f72;
+}
+.exam {
+    width: 100%;
+    color: white;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-shadow: 1px 1px black;
+    background-color: #DE3163;
+}
+.exam-sheet {
+    width: 100%;
+    color: white;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-shadow: 1px 1px black;
+    background-color: #d35400;
+}
+.certificate {
+    width: 100%;
+    color: white;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-shadow: 1px 1px black;
+    background-color: #4a235a;
+}
+.time-table {
+    width: 100%;
+    color: white;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-shadow: 1px 1px black;
+    background-color: #641e16;
+}
+.student-info {
+    width: 100%;
+    color: white;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-shadow: 1px 1px black;
+    background-color: #f39c12;
+}
+.gallery {
+    width: 100%;
+    color: white;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-shadow: 1px 1px black;
+    background-color: #2ecc71;
+}
+@media (max-width:768px){
+    .marquee{
+        font-size: 17px;
+    }
+}

@@ -1,0 +1,17 @@
+.class{
+    border: 1px solid gray;
+    margin: 0;
+}
+.class h1{
+    background: linear-gradient(black, blue);
+    color: #ffffff;
+}
+.class h3{
+    border: 1px solid gray;
+    text-align: center;
+    margin: 10px;
+    background-color: gray;
+    color: #ffffff;
+    text-shadow: 1px 1px black;
+    font-size: 20px;
+}

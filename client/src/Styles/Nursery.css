@@ -1,0 +1,89 @@
+.form-containerr{
+width: 96%;
+margin-right: auto;
+margin-left: auto;
+margin-bottom: 20px;
+padding: 30px 200px 30px 200px;
+text-align: start;
+border: 1px solid black;
+border-bottom-left-radius: 5px;
+border-bottom-right-radius: 5px;
+}
+.form-containerrr {
+    width: 96%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 20px;
+    padding: 30px 200px 30px 200px;
+    text-align: start;
+    border: 1px solid black;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.registerr {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+
+}
+
+.registerr Button {
+    margin: 10px;
+    background-color: #12df1e;
+}
+.registerr Button:hover {
+    background-color: #0cca18;
+    color: black;
+}
+
+.form-containerr Label {
+    font-weight: bold;
+}
+
+.form-containerr Input {
+    border: 1px solid green;
+}
+.form-containerrr Table{
+    width: 96%;
+    border: 1px solid black;
+    padding: 10px;
+}
+.form-containerrr Table th, td{
+    border: 1px solid black;
+    text-align: center; 
+}
+.form-containerrr td{
+    color: black;
+    font-weight: bold;
+    text-shadow: 1px 1px white;
+}
+.form-containerrr Button{
+    position: static;
+}
+.submit{
+    display: flex;
+    justify-content: center;
+}
+@media (max-width:1115px) {
+    .form-containerr {
+        width: 96%;
+        padding: 30px;
+    }
+    .form-containerrr {
+        width: 96%;
+        padding: 10px;
+       
+    }
+    .form-containerrr Table{
+        width: 96%;
+        padding: 10px;
+        margin-right: auto;
+        margin-left: auto;
+        
+    }
+    .scroll{
+        overflow: scroll;
+        scrollbar-width: none;
+    }
+
+}
